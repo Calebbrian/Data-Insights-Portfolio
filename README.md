@@ -36,4 +36,7 @@ View the full analysis in the notebook: [Superstore Core Insights.ipynb](Superst
 I am passionate about data science and continuously seek to improve my skills in data analysis, machine learning, and visualization. I specialize in using Python to analyze datasets and provide actionable insights.
 
 Feel free to explore the projects and reach out if you have any questions!
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7d7f76e558afce7c2300a5b449e4d23fac27b7b8
