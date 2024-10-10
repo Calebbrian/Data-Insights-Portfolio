@@ -25,8 +25,8 @@ View the full analysis in the notebook: [[Superstore Core Insights.ipynb](Supers
 
 ## Datasets
 - **Uber Drives Dataset (2016):** [[Download here](My%20Uber%20Drives%20-%202016.csv)](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/My%20Uber%20Drives%20-%202016.csv)
-- **Superstore Sales Dataset:** [Download here](SUPERSTORE.xlsx)
-
+- **Superstore Sales Dataset:** [[Download here](SUPERSTORE.xlsx)
+](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/SUPERSTORE..xlsx)
 ## Technologies Used
 - **Python:** Pandas, Matplotlib, Seaborn, Statsmodels
 - **Jupyter Notebooks** for project documentation and visualization
