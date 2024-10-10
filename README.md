@@ -12,7 +12,7 @@ This project involves analyzing Uber trip data from 2016. Key insights include:
 - **Time-Based Analysis:** Analyzing trips by hour, day, and month.
 - **Purpose Analysis:** Understanding the most common reasons for trips and their durations.
 
-View the full analysis in the notebook: [Uber Drives Analysis.ipynb](Uber_Drives_Analysis%20.ipynb)
+View the full analysis in the notebook: [[Uber Drives Analysis.ipynb](Uber_Drives_Analysis%20.ipynb)](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/Uber_Drives_Analysis%20.ipynb)
 
 ### 2. **Superstore Sales Analysis**  
 This project focuses on analyzing sales data from a Superstore. Key insights include:
