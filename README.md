@@ -24,7 +24,7 @@ This project focuses on analyzing sales data from a Superstore. Key insights inc
 View the full analysis in the notebook: [[Superstore Core Insights.ipynb](Superstore_Core_Insights.ipynb)](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/Superstore_Core_Insights.ipynb)
 
 ## Datasets
-- **Uber Drives Dataset (2016):** [Download here](My%20Uber%20Drives%20-%202016.csv)
+- **Uber Drives Dataset (2016):** [[Download here](My%20Uber%20Drives%20-%202016.csv)](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/My%20Uber%20Drives%20-%202016.csv)
 - **Superstore Sales Dataset:** [Download here](SUPERSTORE.xlsx)
 
 ## Technologies Used
