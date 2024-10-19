@@ -7,12 +7,12 @@ Welcome to my Data Insights Portfolio! This repository contains various data ana
 ### 1. **Uber Drives Analysis**  
 This project involves analyzing Uber trip data from 2016. Key insights include:
 - **Data Cleaning:** Handling missing values and converting date formats.
-- **Trip Duration Analysis:** Average trip duration by category (business/personal).
-- **Distance Analysis:** Average miles per trip, with detailed breakdown by purpose.
+- **Trip Duration Analysis:** Calculating average trip duration by category (business/personal).
+- **Distance Analysis:** Analyzing average miles per trip, with detailed breakdown by purpose.
 - **Time-Based Analysis:** Analyzing trips by hour, day, and month.
 - **Purpose Analysis:** Understanding the most common reasons for trips and their durations.
 
-View the full analysis in the notebook: [Uber Drives Analysis.ipynb](Uber_Drives_Analysis.ipynb)
+View the full analysis in the notebook: [Uber Drives Analysis.ipynb](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/Uber_Drives_Analysis%20.ipynb)
 
 ### 2. **Superstore Sales Analysis**  
 This project focuses on analyzing sales data from a Superstore. Key insights include:
@@ -21,11 +21,11 @@ This project focuses on analyzing sales data from a Superstore. Key insights inc
 - **Time Series Analysis:** Using ARIMA models to forecast future sales trends.
 - **Customer Segmentation:** Creating an RFM (Recency, Frequency, Monetary) model to categorize customers.
 
-View the full analysis in the notebook: [Superstore Core Insights.ipynb](Superstore_Core_Insights.ipynb)
+View the full analysis in the notebook: [Superstore Core Insights.ipynb](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/Superstore_Core_Insights.ipynb)
 
 ## Datasets
-- **Uber Drives Dataset (2016):** [Download here](My%20Uber%20Drives%20(Dataset)%20-%202016.csv)
-- **Superstore Sales Dataset:** [Download here](SUPERSTORE.xlsx)
+- **Uber Drives Dataset (2016):** [Download here](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/My%20Uber%20Drives%20-%202016.csv)
+- **Superstore Sales Dataset:** [Download here](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/SUPERSTORE..xlsx)
 
 ## Technologies Used
 - **Python:** Pandas, Matplotlib, Seaborn, Statsmodels
