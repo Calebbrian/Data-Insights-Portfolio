@@ -33,7 +33,7 @@ This project focuses on the analysis of a dataset containing dates and values, s
 - **Lag Correlation Analysis**: Analyzing relationships between values across different time lags.
 - **ARIMA Forecasting**: Predicting future values using an ARIMA model.
 
-View the full analysis in the notebook: dates & valuies.ipynb
+View the full analysis in the notebook: [dates & values.ipynb](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/dates%20%26%20values.ipynb)
 
 ## Datasets
 - **Uber Drives Dataset (2016):** [Download here](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/My%20Uber%20Drives%20-%202016.csv)
