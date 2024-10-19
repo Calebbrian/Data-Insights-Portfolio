@@ -33,22 +33,7 @@ This project focuses on the analysis of a dataset containing dates and values, s
 - **Lag Correlation Analysis**: Analyzing relationships between values across different time lags.
 - **ARIMA Forecasting**: Predicting future values using an ARIMA model.
 
-#### Key Findings:
-1. **Time Series Decomposition**:
-   - **Trend**: The dataset shows a gradual increase in values, peaking around **1969–1970**, indicating growth or increasing activity over time.
-   - **Seasonality**: Repeated seasonal patterns, particularly around **November–December**, where values tend to spike.
-   - **Residuals**: Large deviations in residuals around **1969–1970**, suggesting external factors or anomalies.
-
-2. **Outlier Detection**:
-   - Significant outliers were identified between **1967–1970**, likely driven by seasonal or external factors.
-
-3. **Lag Correlation Analysis**:
-   - A strong correlation at **Lag 12 (0.95)**, indicating **strong seasonality** in the dataset. Moderate correlation at **Lag 1 (0.46)**, indicating the influence of the previous month.
-
-4. **ARIMA Forecasting**:
-   - The ARIMA(5, 1, 0) model was used for forecasting future values, revealing expected fluctuations.
-
-View the full analysis in the notebook: [Dates & Values Time Series Analysis.ipynb](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/Dates_Values_Time_Series_Analysis.ipynb)
+View the full analysis in the notebook: dates & valuies.ipynb
 
 ## Datasets
 - **Uber Drives Dataset (2016):** [Download here](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/My%20Uber%20Drives%20-%202016.csv)
