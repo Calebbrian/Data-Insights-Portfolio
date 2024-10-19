@@ -23,7 +23,7 @@ This project focuses on analyzing sales data from a Superstore. Key insights inc
 
 View the full analysis in the notebook: [Superstore Core Insights.ipynb](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/Superstore_Core_Insights.ipynb)
 
-### 3. **Dates & Values: Time Series Analysis and Forecasting**
+### 3. **Dates & Values Analysis**
 This project focuses on the analysis of a dataset containing dates and values, showcasing advanced time series analysis techniques.
 
 #### Key Insights:
