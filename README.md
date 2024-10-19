@@ -38,7 +38,7 @@ View the full analysis in the notebook: [dates & values.ipynb](https://github.co
 ## Datasets
 - **Uber Drives Dataset (2016):** [Download here](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/My%20Uber%20Drives%20-%202016.csv)
 - **Superstore Sales Dataset:** [Download here](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/SUPERSTORE..xlsx)
-- **Dates & Values Dataset:** Available upon request.
+- **Dates & Values Dataset:** [Download here](https://github.com/Calebbrian/Data-Insights-Portfolio/blob/main/dates%20%26%20values%20dataset.csv)
 
 ## Technologies Used
 - **Python**: Pandas, Matplotlib, Seaborn, Statsmodels
